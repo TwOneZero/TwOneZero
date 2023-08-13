@@ -1,5 +1,9 @@
 <h1 align="center">Hi, I'm Twonezero!👋</h1>
-<h3 align="center">I majored in Computer Science. Studying web development.</h3>
+<h3 align="center">I majored in Computer Science. Studying web development.
+
+I'm interested in writing code that is easy to read and understand, and communicating well with people.
+
+</h3>
 
 <h3 align="left">Connect with me</h3><h5>adnjsdudtm@gmail.com</h5>
 <p align="left">
