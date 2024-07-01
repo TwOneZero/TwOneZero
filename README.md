@@ -1,4 +1,4 @@
-![docker](https://github.com/TwOneZero/TwOneZero/assets/74637926/72135bde-7d4c-4a96-ae2b-5a2bcf0f787f)<h1 align="center">Hi, I'm Twonezero!👋</h1>
+<h1 align="center">Hi, I'm Twonezero!👋</h1>
 <h3 align="center">I majored in Computer Science. Studying web development.
 
 I'm interested in writing code that is easy to read and understand, and communicating well with people.
