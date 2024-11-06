@@ -17,10 +17,9 @@ I'm interested in writing code that is easy to read and understand, and communic
 ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)⭐
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)⭐
 
-### DataBases & ORM
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)⭐⭐⭐
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)⭐⭐
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white)⭐
+### DataBases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)⭐⭐
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white)⭐⭐
 
 
 #### Others
@@ -30,7 +29,6 @@ I'm interested in writing code that is easy to read and understand, and communic
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)⭐⭐
 
 
-![TwOneZero's GitHub stats](https://github-readme-stats.vercel.app/api?username=twonezero&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wonyoung98)](https://solved.ac/wonyoung98/)
  
 # :mailbox_with_mail: Contacts
