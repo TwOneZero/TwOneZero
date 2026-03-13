@@ -1,35 +1,99 @@
-<h1 align="center">Hi, I'm Twonezero!👋</h1>
-<h3 align="center">I majored in Computer Science. Studying web development.
+<h1 align="center">Hi, I'm Wonyoung 👋</h1>
 
-I'm interested in writing code that is easy to read and understand, and communicating well with people.
+<p align="center">
+Backend developer exploring <b>AI Agents</b> and intelligent systems.
+</p>
 
-</h3>
+---
 
-# 🛠 Skills
-### BackEnd
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)⭐⭐⭐
-![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)⭐⭐⭐
-<br/>
-![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white)⭐⭐
+## 🧠 About Me
 
+I started as a **backend developer**, focusing on building reliable server systems and APIs.
 
-### FrontEnd
-![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)⭐
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)⭐
+Recently, I’ve been exploring **AI agents, LLM orchestration, and automation systems** while continuing to deepen my understanding of backend architecture.
 
-### DataBases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)⭐⭐
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white)⭐⭐
+I'm currently **studying and building AI agent systems** using modern LLM frameworks and backend technologies.
 
+My goal is to become a developer who can design and build **intelligent backend systems powered by AI agents.**
 
-#### Others
-![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)⭐⭐⭐
-![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white)⭐⭐
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)⭐⭐
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)⭐⭐
+---
 
+## 🚀 Current Focus
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wonyoung98)](https://solved.ac/wonyoung98/)
- 
-# :mailbox_with_mail: Contacts
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adnjsdudtm@gmail.com)](mailto:adnjsdudtm@gmail.com)
+- Building **AI agents with tools and APIs**
+- Learning **multi-agent orchestration**
+- Designing **LLM-powered backend systems**
+- Studying **RAG and knowledge retrieval systems**
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+
+- Python • FastAPI  
+- Java • Spring
+
+### AI / LLM
+
+- LangChain & LangGraph  
+- LLM APIs
+
+### Infrastructure
+
+- Docker, Linux
+- Cloud (GCP / AWS)
+
+### Databases
+
+- MySQL, MongoDB
+
+---
+
+## 🧩 What I am Developing ...
+
+### AI Agent Research Project
+
+Building a **multi-agent research system** using LangChain and LangGraph.
+
+Features
+
+- tool-use agents
+- web search integration
+- document analysis
+- research automation
+
+---
+
+### RAG Chat Agent
+
+A conversational agent that combines:
+
+- document retrieval
+- knowledge base search
+- LLM reasoning
+
+---
+
+## 📚 Currently Learning
+
+- AI Agent architectures
+- LangGraph orchestration
+- Retrieval Augmented Generation (RAG)
+- AI system design patterns
+
+---
+<!-- 
+## 📊 Problem Solving
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wonyoung98)](https://solved.ac/wonyoung98)
+
+--- -->
+
+## 📫 Contact
+
+📧 adnjsdudtm@gmail.com
+
+---
+
+⭐ Always learning and experimenting with new technologies.
